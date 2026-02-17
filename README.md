@@ -101,13 +101,13 @@ a-lyon-portfolio/
 Una vez desplegado, el portfolio estará disponible en:
 ```
 https://[tu-usuario].github.io/a-lyon-portfolio/
-```
 
+```
 ## 👤 Autor
 
 **Leonardo Hernández**
-- LinkedIn: [linkedin.com/in/leonardo-hernandez](https://linkedin.com/in/leonardo-hernandez)
-- Email: leonardo.hernandez@email.com
+- LinkedIn: [linkedin.com/in/lyonproducertv/](https://www.linkedin.com/in/lyonproducertv/)
+- Email: hernandezleonardo085@gmail.com
 
 ## 📄 Licencia
 
